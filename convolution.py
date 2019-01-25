@@ -80,7 +80,7 @@ if s < 1:
     print('Error in input')
     exit(1)
 
-n = int(input('Enter the input(sq)matrix size and elements(row by row)\n'))
+n = int(input('Enter the input matrix size and elements(row by row)\n'))
 if f > n:
     print('Invalid input')
     exit(1)
